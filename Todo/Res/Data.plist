@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Task</key>
+	<array>
+		<dict>
+			<key>ok</key>
+			<false/>
+			<key>title</key>
+			<string>hello</string>
+			<key>date</key>
+			<date>2014-08-06T10:52:24Z</date>
+		</dict>
+		<dict>
+			<key>ok</key>
+			<true/>
+			<key>title</key>
+			<string>hello2</string>
+			<key>date</key>
+			<date>2014-08-06T10:52:24Z</date>
+		</dict>
+		<dict>
+			<key>ok</key>
+			<true/>
+			<key>title</key>
+			<string>hello2</string>
+			<key>date</key>
+			<date>2014-08-06T10:52:24Z</date>
+		</dict>
+	</array>
+</dict>
+</plist>
